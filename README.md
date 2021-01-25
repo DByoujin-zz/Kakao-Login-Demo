@@ -7,5 +7,7 @@
 1. 제품 설정 -> 동의항목으로 들어가, 순서대로 1, 3, 4, 5, 7를 필수동의 또는 선택동의로 저장해줍니다.
 
 ## HTML 파일 세팅
-1. kakao.html를 열고, "kakao key" 부분을 아까 복사해두었던 JavaScript 키로 변경해줍니다.
+kakao.html를 열고, "kakao key" 부분을 아까 복사해두었던 JavaScript 키로 변경해줍니다.
+```
 	Kakao.init( "kakao key" );
+```
