@@ -11,3 +11,6 @@ kakao.html를 열고, kakao key 부분을 아까 복사해두었던 JavaScript �
 ```
 Kakao.init( "kakao key" );
 ```
+
+## 예제
+https://esoftkorea.co.kr/github/kakao.html
