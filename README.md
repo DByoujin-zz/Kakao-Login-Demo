@@ -9,5 +9,5 @@
 ## HTML 파일 세팅
 kakao.html를 열고, "kakao key" 부분을 아까 복사해두었던 JavaScript 키로 변경해줍니다.
 ```
-	Kakao.init( "kakao key" );
+Kakao.init( "kakao key" );
 ```
