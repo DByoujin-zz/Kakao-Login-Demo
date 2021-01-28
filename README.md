@@ -16,5 +16,5 @@ Kakao.init( "kakao key" );
 https://esoftkorea.co.kr/github/kakao.html
 
 ## 참고문서
-기본문서 => https://developers.kakao.com/docs/latest/ko/kakaologin/common
-동의 항목 설정 => https://developers.kakao.com/docs/latest/ko/kakaologin/prerequisite#consent-item
+1. 기본문서 => https://developers.kakao.com/docs/latest/ko/kakaologin/common
+1. 동의 항목 설정 => https://developers.kakao.com/docs/latest/ko/kakaologin/prerequisite#consent-item
